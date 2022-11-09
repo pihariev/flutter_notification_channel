@@ -2,6 +2,7 @@ package com.softmaestri.notification.channel.flutter_notification_channel;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
+import android.app.NotificationChannelGroup
 import android.app.NotificationManager;
 import android.content.Context;
 import android.media.AudioAttributes;
